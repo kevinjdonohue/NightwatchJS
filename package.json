@@ -11,6 +11,8 @@
     "e2e-setup": "selenium-standalone install"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
     "nightwatch": "^0.9.20",
     "selenium-standalone": "^6.14.0"
   }
