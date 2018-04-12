@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "A sandbox for playing with NightwatchJS",
   "main": "index.js",
-  "repository": "]",
+  "repository": "https://github.com/kevinjdonohue/nightwatchjs",
   "author": "Kevin J Donohue <kevinjdonohue@yahoo.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "nightwatch",
+    "e2e-setup": "selenium-standalone install"
+  },
   "devDependencies": {
     "nightwatch": "^0.9.20",
     "selenium-standalone": "^6.14.0"
