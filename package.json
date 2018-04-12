@@ -8,7 +8,8 @@
   "license": "MIT",
   "scripts": {
     "test": "nightwatch",
-    "e2e-setup": "selenium-standalone install"
+    "e2e:setup": "selenium-standalone install",
+    "e2e:start": "selenium-standalone start"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
