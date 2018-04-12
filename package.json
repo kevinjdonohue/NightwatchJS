@@ -1,0 +1,9 @@
+{
+  "name": "NightwatchJS",
+  "version": "1.0.0",
+  "description": "A sandbox for playing with NightwatchJS",
+  "main": "index.js",
+  "repository": "]",
+  "author": "Kevin J Donohue <kevinjdonohue@yahoo.com>",
+  "license": "MIT"
+}
