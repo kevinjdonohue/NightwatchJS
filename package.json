@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "test": "nightwatch",
-    "e2e:setup": "selenium-standalone install",
+    "e2e:install": "selenium-standalone install",
     "e2e:start": "selenium-standalone start"
   },
   "devDependencies": {
