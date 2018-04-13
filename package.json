@@ -9,6 +9,7 @@
   "scripts": {
     "test:firefox": "nightwatch",
     "test:chrome": "nightwatch -e chrome",
+    "test:edge": "nightwatch -e edge",
     "e2e:install": "selenium-standalone install",
     "e2e:start": "selenium-standalone start --debug"
   },
