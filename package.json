@@ -14,7 +14,6 @@
     "e2e:start": "selenium-standalone start --debug"
   },
   "devDependencies": {
-    "axe-core": "^3.0.1",
     "babel-cli": "^6.26.0",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-env": "^1.6.1",
